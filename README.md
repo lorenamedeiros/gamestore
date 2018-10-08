@@ -11,6 +11,5 @@ Você irá desenvolver uma página que vai listar diversos jogos (pelo menos 5) 
 -   Data desejada para a entrega;
 -   Nome do cliente;
 -   CPF;
-    ...
 
 [GameStore](https://lorenamedeiros.github.io/gamestore/)

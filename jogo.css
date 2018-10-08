@@ -12,6 +12,7 @@ body {
 
 td {
     vertical-align: top;
+    padding: 10px;
 }
 
 .preco {
