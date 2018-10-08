@@ -1,6 +1,8 @@
 html,
 body {
     width: 100%;
+    padding: 0;
+    margin: 0;
 }
 
 .centralizado {
@@ -36,4 +38,8 @@ table tbody tr td {
 
 td {
     vertical-align: top;
+}
+
+.descricao {
+    text-align: left;
 }
