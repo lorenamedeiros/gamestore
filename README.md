@@ -13,4 +13,4 @@ Você irá desenvolver uma página que vai listar diversos jogos (pelo menos 5) 
 -   CPF;
     ...
 
-[Acesse GameStore](https://lorenamedeiros.github.io/gamestore/)
+[GameStore](https://lorenamedeiros.github.io/gamestore/)
